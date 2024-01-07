@@ -1,0 +1,35 @@
+/* styles.css
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'YourChosenFont', sans-serif;
+  }
+  
+  header {
+    background-color: #3498db;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav a {
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+   */
